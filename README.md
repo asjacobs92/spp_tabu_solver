@@ -6,7 +6,7 @@ This repository hosts the code for a SPP solver using the [Tabu Search] (https:/
 
 This solver was calibrated and tested using several different randomic seeds, Tabu list sizes, maximum number of iterations and execution time limits, over several different instances of the problem. All instances used to test this solution can be found [here] (http://people.brunel.ac.uk/~mastjjb/jeb/orlib/sppinfo.html). All my results and conclusions are presented on my report and presentation (in portuguese, sorry).
 
-TODO: push code and folder descriptions.
+TODO: explain folders structure.
 
 <br/>
 Arthur Jacobs<br/>
