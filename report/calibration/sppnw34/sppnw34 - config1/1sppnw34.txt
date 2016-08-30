@@ -1,0 +1,49 @@
+*************************************************
+**** SET PARTITION SOLVER USING TABU SEARCH *****
+*************************************************
+
+RESULTS:
+
+Params:
+   Tabu list size: 20
+   Iteration limit: 50
+   Time limit: 900
+   Radom seed: 515151
+
+Number of iterations: 50
+Execution time: 42.516 seconds.
+
+Instance:
+   Number of elements: 20
+   Number of subsets: 899
+
+FEASIBLE INITIAL SOLUTION FOUND!
+
+Initial solution:
+    Value: 20838
+    Elements: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+    Subsets: 
+       Number 27 (Value = 4758): 1 5 9 18 
+       Number 156 (Value = 498): 2 14 15 20 
+       Number 259 (Value = 4593): 3 
+       Number 386 (Value = 1035): 4 
+       Number 605 (Value = 1656): 6 12 16 17 19 
+       Number 643 (Value = 3696): 7 8 13 
+       Number 844 (Value = 2268): 10 
+       Number 870 (Value = 2334): 11 
+
+FEASIBLE SOLUTION FOUND!
+
+Final solution:
+    Value: 20838
+    Elements: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+    Subsets: 
+       Number 27 (Value = 4758): 1 5 9 18 
+       Number 156 (Value = 498): 2 14 15 20 
+       Number 259 (Value = 4593): 3 
+       Number 386 (Value = 1035): 4 
+       Number 605 (Value = 1656): 6 12 16 17 19 
+       Number 643 (Value = 3696): 7 8 13 
+       Number 844 (Value = 2268): 10 
+       Number 870 (Value = 2334): 11 
+
